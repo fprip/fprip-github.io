@@ -2,5 +2,12 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
+```{r, include=FALSE}
+#ctr alt i  = chunk 
+#ctr shift k = knit 
+```
+
+
+![International Bladder Cancer Network 2019](FB_IBCN.jpg){width=50%}
+
 
