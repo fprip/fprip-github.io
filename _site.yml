@@ -17,9 +17,9 @@ navbar:
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:frederik.prip@clin.au.dk         # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/fprip                # CHANGE HERE 
+    #- text: "GitHub"
+    #  icon: fa-github
+    #  href: https://github.com/fprip                # CHANGE HERE 
     - text: "Twitter"
       icon: fa-twitter
       href: https://twitter.com/frederik_prip       # CHANGE HERE 

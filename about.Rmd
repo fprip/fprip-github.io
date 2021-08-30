@@ -1,8 +1,26 @@
 ---
-title: "About me"
+title: "Publications"
 ---
 
-## Header
-
-Say more about you here.
-
+\
+**An integrated multi-omics analysis identifies clinically relevant molecular subtypes of non-muscle-invasive bladder cancer**\
+Sia Viborg Lindskrog\*, Prip Frederik \*, Philippe Lamy, Ann Taber, Clarice S. Groeneveld, Karin Birkenkamp-Demtröder, Jørgen Bjerggaard Jensen, Trine Strandgaard, Iver Nordentoft, Emil Christensen, Mateo Sokac, Nicolai J. Birkbak, Lasse Maretty, Gregers G. Hermann, Astrid C. Petersen, Veronika Weyerer, Marc-Oliver Grimm, Marcus Horstmann, Gottfrid Sjödahl, Mattias Höglund, Torben Steiniche, Karin Mogensen, Aurélien de Reyniès, Roman Nawroth, Brian Jordan, Xiaoqi Lin, Dejan Dragicevic, Douglas G. Ward, Roland Arnold, Carolyn D. Hurst, Jay D. Raman, Joshua I. Warrick, Ulrika Segersten, Danijel Sikic, Kim E.M. van Kessel, Tobias Maurer, Joshua J. Meeks, David J. DeGraff, Richard T. Bryan, Margaret A. Knowles, Tatjana Simic, Arndt Hartmann, Ellen Zwarthoff, Per-Uno Malmström, Núria Malats, Francisco X. Real and Lars Dyrskjøt\
+Nature communications, 2021 Apr\
+*First author\
+\
+**Zoom in on Antibody Aggregates: A Potential Pitfall in the Search of Rare EV Populations**\
+Rikke W. Rasmussen, Jaco Botha, Frederik Prip, Mathilde Sanden, Morten H. Nielsen, Aase Handberg\
+Biomedicines, 2021 Feb 18\
+\
+**STAG2 as a Prognostic Biomarker in Low Grade Non-Muscle Invasive Bladder Cancer**\
+Taber A, Park Y, Lelo A, Prip F, Xiao J, Berry DL, Chaldekas K, Jensen JB, Philips G, Kim JS, Harris BT, Dyrskjøt L, Waldman T\
+Urologic Oncology, 2021 Feb 12 \
+\
+**Molecular Correlates of Cisplatin-based Chemotherapy Response in Muscle Invasive Bladder Cancer by Integrated Multi-omics Analysis**\
+Ann Taber, Emil Christensen, Philippe Lamy, Iver Nordentoft, Frederik Prip, Sia Viborg Lindskrog, Karin Birkenkamp-Demtröder, Trine Line Hauge Okholm, Michael Knudsen, Jakob Skou Pedersen, Torben Steiniche, Mads Agerbæk, Jørgen Bjerggaard Jensen, Lars Dyrskjøt\
+Nature communications, 2020 Sep 25\
+\
+**STAG2 Is a Biomarker for Prediction of Recurrence and Progression in Papillary Non-Muscle-Invasive Bladder Cancer**\
+Lelo A, Prip Frederik, Harris BT, Solomon D, Berry DL, Chaldekas K, Kumar A, Simko J, Jensen JB, Bhattacharyya P, Mannion C, Kim JS, Philips G, Dyrskjøt L, Waldman T\
+Clin Cancer Res, 2018 Jun 28 \
+\
